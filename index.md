@@ -2,10 +2,6 @@
 layout: default
 ---
 
----
-title: Imaginaide
----
-
 # The Vision
 Imaginaide tries to bridge the gap between abstraction and understanding. We hope to empower individuals to grasp the magnitude of the numbers that underpin the quantitative workings of our world.
 
