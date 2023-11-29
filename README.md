@@ -1,5 +1,5 @@
 ## Imaginaide GitHub Page
 
-A Simple landing page for the Imaginaide app
+A Simple jekyll themed landing page for the Imaginaide app
 
-[Click here to visit :)](https://hohenhau.github.io/imaginaide/)
+[Click here to visit :)](https://hohenhau.github.io/imaginaide_jekyll/)
